@@ -108,12 +108,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. 📥
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Connect with Us 🌐
-
-- 🐦 Twitter: [@bountyboard](https://twitter.com/bountyboard)
-- 💬 Discord: [Join our community](https://discord.gg/bountyboard)
-- 📧 Email: hello@bountyboard.com
-
 ---
 
 Made with ❤️ and lots of ☕ by the Bounty Board team
+
